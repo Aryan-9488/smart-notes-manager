@@ -1,0 +1,15 @@
+# Backend
+/target/
+*.log
+
+# Frontend
+node_modules/
+dist/
+
+# Env files
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
