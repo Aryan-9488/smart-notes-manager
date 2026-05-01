@@ -1,5 +1,6 @@
 # Backend
 /target/
+.m2/
 *.log
 
 # Frontend
@@ -9,6 +10,7 @@ dist/
 # Env files
 .env
 .env.*
+!.env.example
 
 # OS
 .DS_Store
